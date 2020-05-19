@@ -10,6 +10,9 @@ Code Based on CycleGan: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 ## Datasets :
 
+Download Dataset From: https://drive.google.com/file/d/19x8RnikjTNtMedbdyR077v42sPthOMbA/view?usp=sharing
+and Unzip in current directory ./
+
 ### Training Data: 
 
 Organized in: 
@@ -39,6 +42,9 @@ To train the network use the following command:
 The results will be saved in folder called ./checkpoints/siamese; after every epoch.
 
 ## Testing
+
+Link for Pretrained network: https://drive.google.com/file/d/1VSMo2_LwqP20GN1LijptIO3y0YhjRo_Z/view?usp=sharing
+Save at ./checkpoints/siamese
 
 To test the network use the following command:
 
